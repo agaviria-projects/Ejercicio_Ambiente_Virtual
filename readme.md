@@ -46,10 +46,7 @@ Filtra por estrato, medios de transporte y más
 
 Genera gráficos de barras con seaborn
 
-## 📸 Captura del gráfico generado
-## 📸 Captura del gráfico generado
-
-## 📸 Captura del gráfico generado
+#📸 Captura del gráfico generado
 
 ![Primeras filas](img/primeras_filas_v3.png)
 
