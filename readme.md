@@ -47,10 +47,16 @@ Filtra por estrato, medios de transporte y más
 Genera gráficos de barras con seaborn
 
 ## 📸 Captura del gráfico generado
-![Descripción de la imagen](img/primeras_filas_v3.png)
-![Descripción de la imagen](img/conteo_de_asistencias_v3.png)
-![Descripción de la imagen](img/medios_de_transporte_estrato_1_v3.png)
-![Descripción de la imagen](img/grafico_de_asistencia_v3.png)
+## 📸 Captura del gráfico generado
+
+![Primeras filas](img/primeras_filas_v3.png)
+
+![Conteo de asistencias](img/conteo_de_asistencias_v3.png)
+
+![Transporte por estrato](img/medios_de_transporte_estrato_1_v3.png)
+
+![Gráfico de asistencia](img/grafico_de_asistencia_v3.png)
+
 
 
 ## 😐Autor
